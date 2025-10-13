@@ -1,4 +1,5 @@
-import Tamagotchi.Animal;
+package tama;
+
 public class Cachorro extends Animal {
     public String raca;
     public String cor;

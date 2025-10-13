@@ -1,4 +1,4 @@
-package Tamagotchi;
+package tama;
 
 public class Jogo {
     public boolean ativo;
