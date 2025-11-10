@@ -1,4 +1,4 @@
-package exemplo1_Janela;
+package integracao;
 
 import javax.swing.*;
 

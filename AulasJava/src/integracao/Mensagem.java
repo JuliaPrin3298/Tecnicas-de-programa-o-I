@@ -1,4 +1,4 @@
-package exemplo1_Janela;
+package integracao;
 
 import java.awt.BorderLayout;
 import java.awt.*;
