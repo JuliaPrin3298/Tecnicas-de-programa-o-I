@@ -84,5 +84,35 @@ public class Jogo {
 
         Thread.sleep(2000);
         jogo.desligar();
+
+        jogo.iniciar(mimi);
+
+        Thread.sleep(3000); 
+        mimi.brincar();
+        mimi.alimentar(1);
+        jogo.mostrarAnimal();
+
+        Thread.sleep(2000);
+        jogo.desligar();
+
+        jogo.iniciar(pelin);
+
+        Thread.sleep(3000); 
+        pelin.brincar();
+        pelin.alimentar(1);
+        jogo.mostrarAnimal();
+
+        Thread.sleep(2000);
+        jogo.desligar();
+
+        jogo.iniciar(coro);
+
+        Thread.sleep(3000); 
+        coro.brincar();
+        coro.alimentar(1);
+        jogo.mostrarAnimal();
+
+        Thread.sleep(2000);
+        jogo.desligar();
     }
 }
